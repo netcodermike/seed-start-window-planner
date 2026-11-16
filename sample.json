@@ -1,0 +1,13 @@
+{
+  "frostDate": "2026-05-01",
+  "crops": [
+    {
+      "name": "Tomato",
+      "startBeforeDays": [
+        28,
+        42
+      ],
+      "transplantAfterDays": 14
+    }
+  ]
+}

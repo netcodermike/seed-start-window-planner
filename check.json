@@ -1,0 +1,16 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "windows": [
+      {
+        "name": "Tomato",
+        "start": "2026-03-20",
+        "end": "2026-04-03",
+        "transplant": "2026-05-15"
+      }
+    ]
+  }
+}
